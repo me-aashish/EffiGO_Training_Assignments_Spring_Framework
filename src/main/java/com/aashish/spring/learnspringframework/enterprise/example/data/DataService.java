@@ -10,6 +10,6 @@ public class DataService {
 
 	public List<Integer> getData() {
 
-		return Arrays.asList(10, 20, 30, 40, 50);
+		return Arrays.asList(10, 20, 30, 40, 50, 50);
 	}
 }
